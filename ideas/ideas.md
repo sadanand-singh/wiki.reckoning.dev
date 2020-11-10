@@ -1,8 +1,6 @@
 # Ideas
 
-I share all ideas of things I want to build in [this wiki](wiki.reckoning.dev).
-
-I try to give my full attention to any ideas I am working on.
+I share all ideas of things I want to build in [this wiki](https://wiki.reckoning.dev).
 
 ![](https://i.imgur.com/CXLG4IY.jpg)
 

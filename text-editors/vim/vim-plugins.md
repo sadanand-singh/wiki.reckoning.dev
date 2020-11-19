@@ -5,4 +5,3 @@ A vim plugin is basically is a plethora of Vimscript records that are spread out
 This blog lists some great useful vim plugins.
 
 [https://www.ubuntupit.com/best-vim-plugins-for-programming/](https://www.ubuntupit.com/best-vim-plugins-for-programming/)
-
